@@ -1,0 +1,1 @@
+Setting blynk auth and wifi password over serial
